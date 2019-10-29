@@ -8,3 +8,5 @@ My solutions to the proposed projects at [#30DaysOfJavascript](https://github.co
 | 01 - [Javascript Drum](/Javascript-Drum) | Changed the background, some other CSS attributes | 
 | 02 - [CSS+JS Clock](/CSS%2BJS%20Clock) | Changed CSS attributes, colors corresponding to a coolors[.]co/app project | 
 | 03 - [CSS-Variables](/CSS-Variables) | Implemented another slider input, changing <img> 'margin' attribute | 
+| 04 - [Array Cardio Day 1](/ArrayCardioDay1) | A review of important Array methods, like: filter, map, reduce and so on | 
+| 05 - [Flex Panel Gallery](/FlexPanelGallery) | CSS editing, fresh on CSS 'flex' & 'transform' | 
