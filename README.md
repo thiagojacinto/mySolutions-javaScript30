@@ -1,4 +1,4 @@
-# My solutions in javaScript30
+# My solutions in [JavaScript30](https://javascript30.com)
 
 My solutions to the proposed projects at [#30DaysOfJavascript](https://github.com/wesbos/JavaScript30). I decided to separate the project files into: HTML, CSS and JavaScript specifics. Commented files included for learning proposes.
 
