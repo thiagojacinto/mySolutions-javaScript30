@@ -1,4 +1,7 @@
 # My solutions in [JavaScript30](https://javascript30.com)
+![JS badge](https://img.shields.io/badge/Javascript-ES6-blue)
+![HTML badge](https://img.shields.io/badge/HTML-5-green)
+![CSS badge](https://img.shields.io/badge/CSS-3-orange)
 
 My solutions to the proposed projects at [#30DaysOfJavascript](https://github.com/wesbos/JavaScript30). I decided to separate the project files into: HTML, CSS and JavaScript specifics. Commented files included for learning proposes.
 
