@@ -17,3 +17,4 @@ My solutions to the proposed projects at [#30DaysOfJavascript](https://github.co
 | 07 - [Array Cardio Day 2](/ArrayCardioDay2) | JS review of some other Array methods: some, every, find and findIndex. | 
 | 08 - [Fun with HTML5 'Canvas'](/FunWithHTML5Canvas) | HTML's Canvas and JS to create a live draw page. Plus: HSL color | 
 | 09 - [Dev Tools Domination](/DevToolsDomination) | JS console tricks: log styled, warning, error, info, assert, clear, dir, group, count, time and table | 
+| 10 - [Hold Shift to Check Checkboxes](/HoldShifttoCheck) | Implemented a 'clear selection' button with JS & CSS editing | 
