@@ -1,4 +1,4 @@
-# My solutions in [JavaScript30](https://javascript30.com)
+# My solutions to [#JavaScript30](https://javascript30.com)
 ![JS badge](https://img.shields.io/badge/Javascript-ES6-blue)
 ![HTML badge](https://img.shields.io/badge/HTML-5-green)
 ![CSS badge](https://img.shields.io/badge/CSS-3-orange)
@@ -19,3 +19,17 @@ My solutions to the proposed projects at [#30DaysOfJavascript](https://github.co
 | 09 - [Dev Tools Domination](/DevToolsDomination) | JS console tricks: log styled, warning, error, info, assert, clear, dir, group, count, time and table | 
 | 10 - [Hold Shift to Check Checkboxes](/HoldShiftToCheck) | Implemented a 'clear selection' button with JS & CSS editing | 
 | 11 - [Custom Video Player](/CustomVideoPlayer) | Implemented a 'fullscreen' toggle, as sugested by [Wesbos](https://github.com/wesbos) working on Chrome, Safari & Firefox | 
+| 12 - [Key Sequence Detection](/KeySequenceDetection) |  |
+
+
+## Contributing to 'My Solutions to #JavaScript30'
+
+Comments and contributions are welcome here, feel free to get in touch. To contribute to 'My Solutions to #JavaScript30', follow these steps:
+
+1. Fork this repository.
+2. Create a branch: `git checkout -b <branch_name>`. 
+3. Make your changes and commit them: `git commit -m '<commit_message>'
+4. Push to the original branch: `git push origin <project_name>/<location>`
+5. Create the pull request.
+
+Alternatively see the GitHub documentation on [creating a pull request](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request).
