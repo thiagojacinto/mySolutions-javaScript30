@@ -19,8 +19,8 @@ My solutions to the proposed projects at [#30DaysOfJavascript](https://github.co
 | 09 - [Dev Tools Domination](/DevToolsDomination) | JS console tricks: log styled, warning, error, info, assert, clear, dir, group, count, time and table | 
 | 10 - [Hold Shift to Check Checkboxes](/HoldShiftToCheck) | Implemented a 'clear selection' button with JS & CSS editing | 
 | 11 - [Custom Video Player](/CustomVideoPlayer) | Implemented a 'fullscreen' toggle, as sugested by [Wesbos](https://github.com/wesbos) working on Chrome, Safari & Firefox | 
-| 12 - [Key Sequence Detection](/KeySequenceDetection) |  |
-
+| 12 - [Key Sequence Detection](/KeySequenceDetection) | None |
+| 13 - [Slide in on Scroll](/SlideInOnScroll) | Not much changed. Took the oportunity to make it a #BlackLivesMatter theme |
 
 ## Contributing to 'My Solutions to #JavaScript30'
 
