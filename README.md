@@ -21,6 +21,8 @@ My solutions to the proposed projects at [#30DaysOfJavascript](https://github.co
 | 11 - [Custom Video Player](/CustomVideoPlayer) | Implemented a 'fullscreen' toggle, as sugested by [Wesbos](https://github.com/wesbos) working on Chrome, Safari & Firefox | 
 | 12 - [Key Sequence Detection](/KeySequenceDetection) | None |
 | 13 - [Slide in on Scroll](/SlideInOnScroll) | Not much changed. Took the oportunity to make it a #BlackLivesMatter theme |
+| 14 - [JavaScript: Reference VS Copy](/JSRefereceVSCopy) | None |
+| 15 - [Local Storage](/LocalStorage) | Extra missing: a cleanAll button, uncheckAll and checkAll buttons |
 
 ## Contributing to 'My Solutions to #JavaScript30'
 
