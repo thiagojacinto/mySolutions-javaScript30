@@ -23,6 +23,8 @@ My solutions to the proposed projects at [#30DaysOfJavascript](https://github.co
 | 13 - [Slide in on Scroll](/SlideInOnScroll) | Not much changed. Took the oportunity to make it a #BlackLivesMatter theme |
 | 14 - [JavaScript: Reference VS Copy](/JSReferenceVSCopy) | None |
 | 15 - [Local Storage](/LocalStorage) | Extra missing: a cleanAll button, uncheckAll and checkAll buttons |
+| 16 - [Mouse Move Shadow](/MouseMoveShadow) | style.textShadow only accepts rgb(x,y,z) format of color description |
+| 17 - [Sort Without Articles](/SortWithoutArticles) | Merged this w/ [Hold Shift to Check Checkboxes](/HoldShiftToCheck) JS to make it a list of checkboxes |
 
 ## Contributing to 'My Solutions to #JavaScript30'
 
