@@ -1,0 +1,76 @@
+body {
+    margin: 0;
+    font-family: sans-serif;
+    background: indianred;
+    background-size: cover;
+    display: flex;
+    align-items: center;
+    min-height: 100vh;
+}
+#bands {
+    list-style: inside square;
+    font-size: 20px;
+    background: white;
+    width: 500px;
+    margin: auto;
+    padding: 0;
+    box-shadow: 0 0 0 20px rgba(0, 0, 0, 0.05);
+}
+
+#bands li {
+    border-bottom: 1px solid #efefef;
+    padding: 20px;
+}
+  
+#bands li:last-child {
+    border-bottom: 0;
+}
+
+a {
+    color: #ffc600;
+    text-decoration: none;
+}
+
+/* Modifying to add checklist */
+.item {
+    display: flex;
+    padding-right: 10px;
+}
+
+#bands .item{
+    border-bottom: 1px solid #8f8d8d;
+    
+}
+  
+#bands .item:last-child {
+    border-bottom: 0;
+}
+
+#bands p {
+    padding-left: 30px;
+}
+
+/* CLEAR button */
+ 
+ .button {
+    display: flex;
+    align-items: auto;
+    margin: auto;
+    margin-right: 100px;
+    padding: 30px;
+    border: indianred 3px;
+    background: lightcoral;
+    color: midnightblue;
+    width: inherit;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-weight: 100;
+    font-size: xx-large;
+}
+
+.button:hover {
+    background: rgb(207, 110, 110);
+    border: navy;
+    color: rgb(163, 163, 255);
+}
+
+
