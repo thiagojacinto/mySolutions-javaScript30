@@ -25,7 +25,8 @@ My solutions to the proposed projects at [#30DaysOfJavascript](https://github.co
 | 15 - [Local Storage](/LocalStorage) | Extra missing: a cleanAll button, uncheckAll and checkAll buttons |
 | 16 - [Mouse Move Shadow](/MouseMoveShadow) | style.textShadow only accepts rgb(x,y,z) format of color description |
 | 17 - [Sort Without Articles](/SortWithoutArticles) | Merged this w/ [Hold Shift to Check Checkboxes](/HoldShiftToCheck) JS to make it a list of checkboxes |
-| 14 - [Adding Up Times With Reduce](/AddingUpTimesWithReduce) | Map & Reduce; Inserted a button to show on page the result |
+| 18 - [Adding Up Times With Reduce](/AddingUpTimesWithReduce) | Map & Reduce; Inserted a button to show on page the result |
+| 19 - [Speech Detection](/SpeechDetection) | with 'Stop' button implemented |
 
 ## Contributing to 'My Solutions to #JavaScript30'
 
