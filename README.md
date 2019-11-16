@@ -5,6 +5,7 @@
 
 My solutions to the proposed projects at [#30DaysOfJavascript](https://github.com/wesbos/JavaScript30). I decided to separate the project files into: HTML, CSS and JavaScript specifics. Commented files included for learning proposes.
 
+## Select challenge
 
 | Challenge | Notes |
 | :-------- | :---- |
@@ -27,6 +28,45 @@ My solutions to the proposed projects at [#30DaysOfJavascript](https://github.co
 | 17 - [Sort Without Articles](/SortWithoutArticles) | Merged this w/ [Hold Shift to Check Checkboxes](/HoldShiftToCheck) JS to make it a list of checkboxes |
 | 18 - [Adding Up Times With Reduce](/AddingUpTimesWithReduce) | Map & Reduce; Inserted a button to show on page the result |
 | 19 - [Speech Detection](/SpeechDetection) | with 'Stop' button implemented |
+
+## Using
+It is usefull to install 'npm' inside the folder that contains all these files to test them simulating a server. So, you will have to create a file named '**package.json**' with the following information:
+
+```json
+{
+  "name": "gum",
+  "version": "1.0.0",
+  "description": "",
+  "main": "scripts.js",
+  "scripts": {
+    "start": "browser-sync start --directory --server --files \"*.css, *.html, *.js\" --https"
+  },
+  "author": "YOUR-NAME-HERE",
+  "license": "ISC",
+  "devDependencies": {
+    "browser-sync": "^2.26.7"
+  },
+  "dependencies": {}
+}
+```
+
+then, open Terminal on the desired folder and type:
+
+```shell
+npm install
+```
+
+After the correct installation, if it warns you about vulnerabilities, it's bettter use the auto 'audit' to fix them:
+
+```shell
+npm audit fix
+```
+
+an finally, start the server when you want:
+
+```shell
+npm start
+```
 
 ## Contributing to 'My Solutions to #JavaScript30'
 
