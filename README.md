@@ -29,6 +29,7 @@ My solutions to the proposed projects at [#30DaysOfJavascript](https://github.co
 | 18 - [Adding Up Times With Reduce](/AddingUpTimesWithReduce) | Map & Reduce; Inserted a button to show on page the result |
 | 19 - [Speech Detection](/SpeechDetection) | with 'Stop' button implemented |
 | 20 - [Geolocation](/Geolocation) | Tested on Android, with external link provided by `npm start` |
+| 21 - [Follow Along Link Highlighter](/FollowAlongLinkHighlighter) | Implemented a higher highlighter with math adjustments |
 
 ## Using
 It is usefull to install 'npm' inside the folder that contains all these files to test them simulating a server. So, you will have to create a file named '**package.json**' with the following information:
