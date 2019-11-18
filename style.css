@@ -1,0 +1,94 @@
+html {
+  font-size: 10px;
+  box-sizing: border-box;
+}
+
+*, *:before, *:after {
+  box-sizing: inherit;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+  background-color: rgb(193, 135, 59);
+  display: flex;
+  min-height: 100vh;
+  align-items: center;
+
+  background-image:
+  radial-gradient(circle at 100% 150%, rgb(193, 135, 59) 24%, rgb(210, 160, 66) 25%, rgb(210, 160, 66) 28%, rgb(193, 135, 59) 29%, rgb(193, 135, 59) 36%, rgb(210, 160, 66) 36%, rgb(210, 160, 66) 40%, transparent 40%, transparent),
+  radial-gradient(circle at 0    150%, rgb(193, 135, 59) 24%, rgb(210, 160, 66) 25%, rgb(210, 160, 66) 28%, rgb(193, 135, 59) 29%, rgb(193, 135, 59) 36%, rgb(210, 160, 66) 36%, rgb(210, 160, 66) 40%, transparent 40%, transparent),
+  radial-gradient(circle at 50%  100%, rgb(210, 160, 66) 10%, rgb(193, 135, 59) 11%, rgb(193, 135, 59) 23%, rgb(210, 160, 66) 24%, rgb(210, 160, 66) 30%, rgb(193, 135, 59) 31%, rgb(193, 135, 59) 43%, rgb(210, 160, 66) 44%, rgb(210, 160, 66) 50%, rgb(193, 135, 59) 51%, rgb(193, 135, 59) 63%, rgb(210, 160, 66) 64%, rgb(210, 160, 66) 71%, transparent 71%, transparent),
+  radial-gradient(circle at 100% 50%, rgb(210, 160, 66) 5%, rgb(193, 135, 59) 6%, rgb(193, 135, 59) 15%, rgb(210, 160, 66) 16%, rgb(210, 160, 66) 20%, rgb(193, 135, 59) 21%, rgb(193, 135, 59) 30%, rgb(210, 160, 66) 31%, rgb(210, 160, 66) 35%, rgb(193, 135, 59) 36%, rgb(193, 135, 59) 45%, rgb(210, 160, 66) 46%, rgb(210, 160, 66) 49%, transparent 50%, transparent),
+  radial-gradient(circle at 0    50%, rgb(210, 160, 66) 5%, rgb(193, 135, 59) 6%, rgb(193, 135, 59) 15%, rgb(210, 160, 66) 16%, rgb(210, 160, 66) 20%, rgb(193, 135, 59) 21%, rgb(193, 135, 59) 30%, rgb(210, 160, 66) 31%, rgb(210, 160, 66) 35%, rgb(193, 135, 59) 36%, rgb(193, 135, 59) 45%, rgb(210, 160, 66) 46%, rgb(210, 160, 66) 49%, transparent 50%, transparent);
+  background-size:100px 50px;
+}
+
+.voiceinator {
+  padding: 2rem;
+  width: 50rem;
+  margin: 0 auto;
+  border-radius: 1rem;
+  position: relative;
+  background: white;
+  overflow: hidden;
+  z-index: 1;
+  box-shadow: 0 0 5px 5px rgba(0,0,0,0.1);
+}
+
+h1 {
+  width: calc(100% + 4rem);
+  margin: -2rem 0 2rem -2rem;
+  padding: .5rem;
+  background: #ff4800;
+  border-bottom: 5px solid rgb(243, 99, 16);
+  text-align: center;
+  font-size: 5rem;
+  font-weight: 100;
+  font-family: 'Pacifico', cursive;
+  text-shadow: 3px 3px 0 rgb(243, 88, 16);
+}
+
+.voiceinator input,
+.voiceinator button,
+.voiceinator select,
+.voiceinator textarea {
+  width: 100%;
+  display: block;
+  margin: 10px 0;
+  padding: 10px;
+  border: 0;
+  font-size: 2rem;
+  background: rgb(248, 248, 248);
+  outline: 0;
+}
+
+textarea {
+  height: 20rem;
+}
+/* 
+input[type="select"] {
+
+} */
+
+.voiceinator button {
+  background: rgb(243, 99, 16);;
+  border: 0;
+  width: 49%;
+  float: left;
+  font-family: 'Pacifico', cursive;
+  margin-bottom: 0;
+  font-size: 2rem;
+  border-bottom: 5px solid rgb(243, 88, 16);;
+  cursor: pointer;
+  position: relative;
+}
+
+.voiceinator button:active {
+  top: 2px;
+}
+
+.voiceinator button:nth-of-type(1) {
+  margin-right: 2%;
+}
