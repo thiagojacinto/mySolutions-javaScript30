@@ -30,7 +30,8 @@ My solutions to the proposed projects at [#30DaysOfJavascript](https://github.co
 | 19 - [Speech Detection](/SpeechDetection) | with 'Stop' button implemented |
 | 20 - [Geolocation](/Geolocation) | Tested on Android, with external link provided by `npm start` |
 | 21 - [Follow Along Link Highlighter](/FollowAlongLinkHighlighter) | Implemented a higher highlighter with math adjustments |
-| 22 - [Speech Synthesis](/SpeechSynthesis) | None
+| 22 - [Speech Synthesis](/SpeechSynthesis) | None |
+| 23 - [Sticky Nav](/StickyNavbar) | #black theme |
 
 ## Using
 It is usefull to install 'npm' inside the folder that contains all these files to test them simulating a server. So, you will have to create a file named '**package.json**' with the following information:
