@@ -33,6 +33,7 @@ My solutions to the proposed projects at [#30DaysOfJavascript](https://github.co
 | 22 - [Speech Synthesis](/SpeechSynthesis) | None |
 | 23 - [Sticky Nav](/StickyNavbar) | #black theme |
 | 24 - [Event Capture](/EventCapture) | None |
+| 25 - [Stripe's Follow Along Nav](/StripesNavFollowAlong) | Footer with similar nav floating following link clicks |
 
 ## Using
 It is usefull to install 'npm' inside the folder that contains all these files to test them simulating a server. So, you will have to create a file named '**package.json**' with the following information:
