@@ -32,6 +32,7 @@ My solutions to the proposed projects at [#30DaysOfJavascript](https://github.co
 | 21 - [Follow Along Link Highlighter](/FollowAlongLinkHighlighter) | Implemented a higher highlighter with math adjustments |
 | 22 - [Speech Synthesis](/SpeechSynthesis) | None |
 | 23 - [Sticky Nav](/StickyNavbar) | #black theme |
+| 24 - [Event Capture](/EventCapture) | None |
 
 ## Using
 It is usefull to install 'npm' inside the folder that contains all these files to test them simulating a server. So, you will have to create a file named '**package.json**' with the following information:
