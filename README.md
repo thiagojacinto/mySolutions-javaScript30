@@ -27,13 +27,15 @@ My solutions to the proposed projects at [#30DaysOfJavascript](https://github.co
 | 16 - [Mouse Move Shadow](/MouseMoveShadow) | style.textShadow only accepts rgb(x,y,z) format of color description |
 | 17 - [Sort Without Articles](/SortWithoutArticles) | Merged this w/ [Hold Shift to Check Checkboxes](/HoldShiftToCheck) JS to make it a list of checkboxes |
 | 18 - [Adding Up Times With Reduce](/AddingUpTimesWithReduce) | Map & Reduce; Inserted a button to show on page the result |
-| 19 - [Speech Detection](/SpeechDetection) | with 'Stop' button implemented |
-| 20 - [Geolocation](/Geolocation) | Tested on Android, with external link provided by `npm start` |
-| 21 - [Follow Along Link Highlighter](/FollowAlongLinkHighlighter) | Implemented a higher highlighter with math adjustments |
-| 22 - [Speech Synthesis](/SpeechSynthesis) | None |
-| 23 - [Sticky Nav](/StickyNavbar) | #black theme |
-| 24 - [Event Capture](/EventCapture) | None |
-| 25 - [Stripe's Follow Along Nav](/StripesNavFollowAlong) | Footer with similar nav floating following link clicks |
+| 19 - [Webcam Fun](/) | None |
+| 20 - [Speech Detection](/SpeechDetection) | with 'Stop' button implemented |
+| 21 - [Geolocation](/Geolocation) | Tested on Android, with external link provided by `npm start` |
+| 22 - [Follow Along Link Highlighter](/FollowAlongLinkHighlighter) | Implemented a higher highlighter with math adjustments |
+| 23 - [Speech Synthesis](/SpeechSynthesis) | None |
+| 24 - [Sticky Nav](/StickyNavbar) | #black theme |
+| 25 - [Event Capture](/EventCapture) | None |
+| 26 - [Stripe's Follow Along Nav](/StripesNavFollowAlong) | Footer with similar nav floating following link clicks |
+| 27 - [Click and Drag](/ClickAndDrag) | None |
 
 ## Using
 It is usefull to install 'npm' inside the folder that contains all these files to test them simulating a server. So, you will have to create a file named '**package.json**' with the following information:
