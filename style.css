@@ -1,0 +1,67 @@
+body {
+  margin: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+  background:
+    radial-gradient(black 15%, transparent 16%) 0 0,
+    radial-gradient(black 15%, transparent 16%) 8px 8px,
+    radial-gradient(rgba(255,255,255,.1) 15%, transparent 20%) 0 1px,
+    radial-gradient(rgba(255,255,255,.1) 15%, transparent 20%) 8px 9px;
+  background-color: rgb(218, 218, 218);
+  background-size: cover;
+  font-family: sans-serif;
+}
+
+.wrapper {
+  width: 850px;
+  display: flex;
+}
+
+video {
+  box-shadow: 0 0 1px 3px rgba(0,0,0,0.1);
+}
+
+.speed {
+  background: #efefef;
+  flex: 1;
+  display: flex;
+  align-items: flex-start;
+  margin: 10px;
+  border-radius: 50px;
+  box-shadow: 0 0 1px 3px rgba(0,0,0,0.1);
+  overflow: hidden;
+}
+
+.speed-bar {
+  width: 100%;
+  background: linear-gradient(-170deg, #ae7623 0%, #ee6767 100%);
+  text-shadow: 1px 1px 0 rgba(0,0,0,0.2);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 2px;
+  color: white;
+  height: 16.3%;
+}
+
+/*  EXTRA  */
+
+.commands {
+  width: 10vw;
+  display: flex;
+  
+}
+
+.button1x {
+  background: linear-gradient(-140deg, #167bff 0%, #4a0bf5 100%);
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  font-size: 200%;
+}
+
+.button2x {
+  background: linear-gradient(70deg, #167bff 0%, #4a0bf5 100%);
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  font-size: 200%;
+}
