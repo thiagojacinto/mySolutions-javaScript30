@@ -37,6 +37,7 @@ My solutions to the proposed projects at [#30DaysOfJavascript](https://github.co
 | 26 - [Stripe's Follow Along Nav](/StripesNavFollowAlong) | Footer with similar nav floating following link clicks |
 | 27 - [Click and Drag](/ClickAndDrag) | None |
 | 28 - [Video Speed Controller](/VideoSpeedController) | Additional buttons to reset to Default speed and double it (2x) |
+| 29 - [Countdow Timer](/CountdownTimer) | Autoplay a video when time is up & stops when another timer is initiated |
 
 ## Using
 It is usefull to install 'npm' inside the folder that contains all these files to test them simulating a server. So, you will have to create a file named '**package.json**' with the following information:
